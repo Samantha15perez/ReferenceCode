@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\bin\Debug\Tutorial8-2.exe.config
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\bin\Debug\Tutorial8-2.exe
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\bin\Debug\Tutorial8-2.pdb
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-3.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8_2.Form1.resources
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8_2.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-3.csproj.GenerateResource.cache
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-3.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-2.exe
+C:\Users\Cyberadmin\Desktop\5-7-2018InClassAssignment\Tutorial8-3\Tutorial8-2\obj\Debug\Tutorial8-2.pdb
