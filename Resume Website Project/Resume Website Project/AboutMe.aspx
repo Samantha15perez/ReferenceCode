@@ -4,7 +4,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <link href="StyleSheet1.css" rel="stylesheet" />
 
-    <asp:Image ID="Image1" runat="server" Height="300px" Width="250px" align="right"/>
+    <asp:Image ID="Image1" runat="server" Height="275px" Width="250px" align="right" ImageUrl="~/App_Data/wwwow_by_mangodere-dbg2dxi.png"/>
 
     <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1><h5> Proin convallis dui dapibus ex pellentesque fermentum. Quisque pellentesque, metus sit amet molestie faucibus, mauris mi laoreet lacus, id lobortis eros sapien vitae nunc. Nullam at fermentum nunc, id ultricies urna. Proin convallis, erat in semper malesuada, purus metus bibendum mauris, eu interdum lorem arcu pharetra dolor. Etiam luctus augue neque, quis ullamcorper enim egestas at. Aenean porttitor laoreet fermentum. Sed maximus felis vel ipsum blandit tincidunt. Vestibulum laoreet eros interdum, ultricies enim pellentesque, lacinia augue. Mauris elementum est non mi congue eleifend. Etiam nec urna ac mi tincidunt elementum et eleifend orci. Donec pulvinar nisl ac orci finibus gravida. Nullam vitae tellus nec odio luctus laoreet. Fusce facilisis justo vel dolor venenatis luctus. Cras consectetur accumsan nibh, vitae mollis arcu egestas rhoncus.
 

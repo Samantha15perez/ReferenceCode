@@ -32,6 +32,8 @@
     <th><a href="Default.aspx">Home</a></th>
     <th><a href="AboutMe.aspx">About</a></th>
      <th><a href="Sandbox.aspx">Login</a></th>
+      <th><a href="Calculator.aspx">Calculator</a></th>
+
   </tr>
 </table>
         

@@ -67,6 +67,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="App_Data\hqdefault.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="App_Data\wwwow_by_mangodere-dbg2dxi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Calculator.aspx" />
     <Content Include="Sandbox.aspx" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">
@@ -81,7 +88,9 @@
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="StyleSheet1.css" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AboutMe.aspx.cs">
@@ -90,6 +99,13 @@
     </Compile>
     <Compile Include="AboutMe.aspx.designer.cs">
       <DependentUpon>AboutMe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Calculator.aspx.cs">
+      <DependentUpon>Calculator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Calculator.aspx.designer.cs">
+      <DependentUpon>Calculator.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
@@ -118,7 +134,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
